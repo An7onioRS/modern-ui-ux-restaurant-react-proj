@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Modern UI/UX Restaurant Project
 
 In this project I've employed:
 
