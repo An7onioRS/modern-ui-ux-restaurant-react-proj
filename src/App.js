@@ -7,8 +7,8 @@ import './App.css';
 const App = () => (
   <div className='app'>
     <Navbar />
-    {/* <Header />
-    <AboutUs />
+    <Header />
+    {/* <AboutUs />
     <SpecialMenu />
     <Chef />
     <Intro />
